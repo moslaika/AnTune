@@ -5,7 +5,7 @@
 - HTML, CSS, JavaScript.
 - BottleWeb.
 - Git.
-- Gitlab.
+- Python.
 
 ## СРЕДА ЗАПУСКА
 - Разработка ведется в Visual Studio 22 на Windows.
