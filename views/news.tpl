@@ -65,11 +65,6 @@
         <a href="https://rg.ru/2024/02/22/na-festivale-ekstremalnyh-vidov-sporta-proryv-vystupiat-macan-i-the-hatters.html" class="news-button">Читать далее</a>
     </div>
 
-     <div class="news-container">
-        <img src="https://cdnstatic.rg.ru/crop980x653/uploads/images/2024/02/22/ria_5605239hr_ff2.jpg" alt="Новость 3">
-        <h2>На фестивале экстремальных видов спорта "Прорыв" выступят MACAN и The Hatters</h2>
-        <a href="https://rg.ru/2024/02/22/na-festivale-ekstremalnyh-vidov-sporta-proryv-vystupiat-macan-i-the-hatters.html" class="news-button">Читать далее</a>
-    </div>
 
     <footer>
     </footer>
