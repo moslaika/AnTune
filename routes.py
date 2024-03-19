@@ -41,7 +41,7 @@ def about():
 def news():
     """Renders the news page."""
     return dict(
-        title='Новости',
+        title='Новости.',
         year=datetime.now().year
     )
 
@@ -50,6 +50,6 @@ def news():
 def learn():
     """Renders the learning page."""
     return dict(
-        title='Начать обучение',
+        title='Начать обучение.',
         year=datetime.now().year
     )
