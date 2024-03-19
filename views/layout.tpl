@@ -32,7 +32,7 @@
         </div>
     </div>
 
-    <div class="container body-content">
+    <div class="container max-height body-content">
         {{!base}}
         <hr />
         <footer>
