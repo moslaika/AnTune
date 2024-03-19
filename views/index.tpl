@@ -1,29 +1,27 @@
 % rebase('layout.tpl', title='Home Page', year=year)
 
 <div class="jumbotron">
-    <h1>Bottle</h1>
-    <p class="lead">Bottle is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript.</p>
-    <p><a href="http://bottlepy.org/docs/dev/index.html" class="btn btn-primary btn-large">Learn more &raquo;</a></p>
+    <h1>Добро пожаловать на сайт о музыке!</h1>
+    <p class="lead">На нашем сайте вы найдете последние новости музыкальной индустрии, обзоры альбомов и концертов, а также полезные советы по обучению игре на инструменте.</p>
+    <p><a  class="btn btn-primary btn-large" href="about">Узнать больше &raquo;</a></p>
 </div>
 
 <div class="row">
     <div class="col-md-4">
-        <h2>Getting started</h2>
+        <h2>Начните сейчас</h2>
         <p>
-            Bottle gives you a powerful, patterns-based way to build dynamic websites that
-            enables a clean separation of concerns and gives you full control over markup
-            for enjoyable, agile development.
+            Наши материалы помогут вам оставаться в курсе последних событий музыкальной индустрии и улучшать свои навыки игры на инструменте.
         </p>
-        <p><a class="btn btn-default" href="http://bottlepy.org/docs/dev/index.html">Learn more &raquo;</a></p>
+        <p><a class="btn btn-default"  href="about">Узнать больше &raquo;</a></p>
     </div>
     <div class="col-md-4">
-        <h2>Get more libraries</h2>
-        <p>The Python Package Index is a repository of software for the Python programming language.</p>
-        <p><a class="btn btn-default" href="https://pypi.python.org/pypi">Learn more &raquo;</a></p>
+        <h2>Получите больше информации</h2>
+        <p>Ищете больше информации о музыке? Мы собрали для вас самые интересные материалы о музыкальных жанрах, инструментах и техниках игры.</p>
+        <p><a class="btn btn-default"  href="news">Узнать больше &raquo;</a></p>
     </div>
     <div class="col-md-4">
-        <h2>Microsoft Azure</h2>
-        <p>You can easily publish to Microsoft Azure using Visual Studio. Find out how you can host your application using a free trial today.</p>
-        <p><a class="btn btn-default" href="http://azure.microsoft.com">Learn more &raquo;</a></p>
+        <h2>Облачные сервисы для музыкантов</h2>
+        <p>Узнайте о возможностях использования облачных сервисов для записи, хранения и совместной работы над музыкальными проектами.</p>
+        <p><a class="btn btn-default"  href="learn">Узнать больше &raquo;</a></p>
     </div>
 </div>
