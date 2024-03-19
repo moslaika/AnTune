@@ -44,6 +44,15 @@
             border-radius: 5px;
             text-decoration: none;
         }
+        #where-to-find {
+            text-align: center;
+            margin-top: 50px;
+            font-size: 40px;
+        }
+        #where-to-find img {
+            width: 80%;
+            border-radius: 5px;
+        }
     </style>
 </head>
 <body>
@@ -61,6 +70,10 @@
             <p>Разработка веб-приложений. Оптимизация окна "Контакты" и "Новости"</p>
             <p>Телефон: +7 (999) 888-77-66</p>
             <a href="https://t.me/username2">Telegram</a>
+        </div>
+        <div id="where-to-find">
+            <img src="https://st03.kakprosto.ru/tumb/680/images/article/2012/4/9/1_52552e4d8e38452552e4d8e3c3.jpg" alt="Где нас искать?">
+            <p>Где нас искать?</p>
         </div>
     </div>
 </body>
