@@ -89,7 +89,7 @@
     </div>
 
     <div class="news-container">
-        <img src="https://gdb.rferl.org/caab0000-0aff-0242-7ce5-08d9b3dc2dc2_w1023_r1_s.jpg" alt="Новость 1">
+        <img src="https://www.songslyrics.ru/wp-content/uploads/2021/07/OG-Buda-4.jpg" alt="Новость 1">
         <div class="news-date">1 октября 2023</div>
         <h2>На рэпера OG Buda составили протокол о пропаганде наркотиков. В мае на OG Buda пожаловалась "Лига безопасного интернета", которую возглавляет дочь члена Совета Федерации Елены Мизулиной – Екатерина.</h2>
         <a href="https://rg.ru/2024/03/19/direktor-valeriia-leonteva-rasskazal-chem-zajmetsia-pevec-posle-uhoda-so-sceny.html" class="news-button">Читать далее</a>
