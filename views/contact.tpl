@@ -44,21 +44,36 @@
             border-radius: 5px;
             text-decoration: none;
         }
+        #where-to-find {
+            text-align: center;
+            margin-top: 50px;
+            font-size: 40px;
+        }
+        #where-to-find img {
+            width: 80%;
+            border-radius: 5px;
+        }
     </style>
 </head>
 <body>
     <div class="container">
         <div class="developer">
-            <img src="developer1.jpg" alt="Разработчик 1">
-            <h2>Имя разработчика 1</h2>
-            <p>Телефон: +7 (XXX) XXX-XX-XX</p>
+            <img src="https://sun9-54.userapi.com/impf/c849432/v849432393/151854/mKfNN3SI8Ww.jpg?size=1000x1000&quality=96&sign=dff853396c9cd2a7b66213abe1cba820&type=album" alt="Разработчик 1">
+            <h2>Ананченко Юрий</h2>
+            <p>Разработка веб-приложений. Разработка окон сайта "О нас" и "Главная" а также "Начать обучение"</p>
+            <p>Телефон: +7 (555) 444-33-22</p>
             <a href="https://t.me/username1">Telegram</a>
         </div>
         <div class="developer">
-            <img src="developer2.jpg" alt="Разработчик 2">
-            <h2>Имя разработчика 2</h2>
-            <p>Телефон: +7 (YYY) YYY-YY-YY</p>
+            <img src="https://phonoteka.org/uploads/posts/2023-03/1679725173_phonoteka-org-p-feitan-nomer-oboi-instagram-34.jpg" alt="Разработчик 2">
+            <h2>Горнак Дима</h2>
+            <p>Разработка веб-приложений. Оптимизация окна "Контакты" и "Новости"</p>
+            <p>Телефон: +7 (999) 888-77-66</p>
             <a href="https://t.me/username2">Telegram</a>
+        </div>
+        <div id="where-to-find">
+            <img src="https://st03.kakprosto.ru/tumb/680/images/article/2012/4/9/1_52552e4d8e38452552e4d8e3c3.jpg" alt="Где нас искать?">
+            <p>Где нас искать?</p>
         </div>
     </div>
 </body>

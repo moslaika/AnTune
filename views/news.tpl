@@ -23,6 +23,12 @@
             height: auto; /* Автоматическая высота картинки */
             object-fit: cover; /* Заполнение контейнера картинкой, сохраняя пропорции */
         }
+        .news-date {
+            font-size: 12px;
+            color: #666;
+            text-align: center;
+            margin-top: 5px;
+        }
         .news-button {
             margin-top: auto; /* Выравниваем кнопку внизу блока */
             width: 100%;
@@ -49,22 +55,45 @@
 
     <div class="news-container">
         <img src="https://cdnstatic.rg.ru/resize800x533/uploads/photogallery/2024/03/19/ria_6409115hr_d5c.jpg" alt="Новость 1">
+        <div class="news-date">19 марта 2024</div>
         <h2>Директор Валерия Леонтьева рассказал, чем займется певец после ухода со сцены</h2>
         <a href="https://rg.ru/2024/03/19/direktor-valeriia-leonteva-rasskazal-chem-zajmetsia-pevec-posle-uhoda-so-sceny.html" class="news-button">Читать далее</a>
     </div>
 
     <div class="news-container">
         <img src="https://cdnstatic.rg.ru/crop980x654/uploads/images/2024/03/05/filya_044.jpg" alt="Новость 2">
+        <div class="news-date">5 марта 2024</div>
         <h2>Kиркоров спровоцировал перепалку за кулисами праздничного шоу</h2>
         <a href="https://rg.ru/2024/03/05/mkru-pevec-kirkorov-sprovociroval-skandal-na-koncerte-v-moskve.html" class="news-button">Читать далее</a>
     </div>
 
     <div class="news-container">
         <img src="https://cdnstatic.rg.ru/crop980x653/uploads/images/2024/02/22/ria_5605239hr_ff2.jpg" alt="Новость 3">
+        <div class="news-date">22 февраля 2024</div>
         <h2>На фестивале экстремальных видов спорта "Прорыв" выступят MACAN и The Hatters</h2>
         <a href="https://rg.ru/2024/02/22/na-festivale-ekstremalnyh-vidov-sporta-proryv-vystupiat-macan-i-the-hatters.html" class="news-button">Читать далее</a>
     </div>
 
+    <div class="news-container">
+        <img src="https://go.zvuk.com/thumb/897x0/filters:quality(75):no_upscale()/imgs/2024/03/19/12/6401981/e21ed6070b0c3bcebaa654ce44997a08d562ddbe.jpg" alt="Новость 1">
+        <div class="news-date">3 апреля 2020</div>
+        <h2>Певица MIA BOYKA в своих социальных сетях рассказала, что покинула проект «Маска» в том числе из-за Сергея Лазарева, который стал специальным гостем эпизода.</h2>
+        <a href="https://rg.ru/2024/03/19/direktor-valeriia-leonteva-rasskazal-chem-zajmetsia-pevec-posle-uhoda-so-sceny.html" class="news-button">Читать далее</a>
+    </div>
+
+    <div class="news-container">
+        <img src="https://go.zvuk.com/thumb/1000x0/filters:quality(75):no_upscale()/imgs/2024/03/16/09/6398294/dd03122d88f52548bee72e04c569e7e96f80e59c.jpg" alt="Новость 1">
+        <div class="news-date">19 июля 2021</div>
+        <h2>На 101-м году жизни умер Сигеити Нэгиси — предприниматель, придумавший один из первых прототипов караоке. Смерть наступила еще 26 января, но известно о ней стало лишь теперь.</h2>
+        <a href="https://rg.ru/2024/03/19/direktor-valeriia-leonteva-rasskazal-chem-zajmetsia-pevec-posle-uhoda-so-sceny.html" class="news-button">Читать далее</a>
+    </div>
+
+    <div class="news-container">
+        <img src="https://gdb.rferl.org/caab0000-0aff-0242-7ce5-08d9b3dc2dc2_w1023_r1_s.jpg" alt="Новость 1">
+        <div class="news-date">1 октября 2023</div>
+        <h2>На рэпера OG Buda составили протокол о пропаганде наркотиков. В мае на OG Buda пожаловалась "Лига безопасного интернета", которую возглавляет дочь члена Совета Федерации Елены Мизулиной – Екатерина.</h2>
+        <a href="https://rg.ru/2024/03/19/direktor-valeriia-leonteva-rasskazal-chem-zajmetsia-pevec-posle-uhoda-so-sceny.html" class="news-button">Читать далее</a>
+    </div>
 
     <footer>
     </footer>
