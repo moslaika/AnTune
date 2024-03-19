@@ -5,27 +5,22 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Контакты</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            color: #333;
-            margin-top: 200px;
-        }
+    <title>{{ title }}</title>
+   <style>
+        /* Основные стили */
+     
         .container {
-            width: 80%;
-            margin: 20px auto;
-            max-height: 2000px;
-            overflow-y: auto;
-            display: flex;
-            justify-content: space-around;
-            align-items: center;
-        }
+         width: 80%;
+        max-height: 2000px;
+        overflow-y: auto;
+}
         .developer {
+            display: inline-block; /* Чтобы элементы шли в линию */
+             vertical-align: top; /* Выравнивание по верхнему краю */
             text-align: center;
             width: 45%;
             padding: 20px;
+            margin-top: 30px;
             background-color: #fff;
             border: 1px solid #ddd;
             border-radius: 5px;
