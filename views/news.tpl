@@ -78,21 +78,21 @@
         <img src="https://go.zvuk.com/thumb/897x0/filters:quality(75):no_upscale()/imgs/2024/03/19/12/6401981/e21ed6070b0c3bcebaa654ce44997a08d562ddbe.jpg" alt="Новость 1">
         <div class="news-date">3 апреля 2020</div>
         <h2>Певица MIA BOYKA в своих социальных сетях рассказала, что покинула проект «Маска» в том числе из-за Сергея Лазарева, который стал специальным гостем эпизода.</h2>
-        <a href="https://rg.ru/2024/03/19/direktor-valeriia-leonteva-rasskazal-chem-zajmetsia-pevec-posle-uhoda-so-sceny.html" class="news-button">Читать далее</a>
+        <a href="https://go.zvuk.com/news/mia-boyka-zayavila-chto-pokinula-shou-maska-iz-za-sergeya-lazareva-19-03-2024.htm" class="news-button">Читать далее</a>
     </div>
 
     <div class="news-container">
         <img src="https://go.zvuk.com/thumb/1000x0/filters:quality(75):no_upscale()/imgs/2024/03/16/09/6398294/dd03122d88f52548bee72e04c569e7e96f80e59c.jpg" alt="Новость 1">
         <div class="news-date">19 июля 2021</div>
         <h2>На 101-м году жизни умер Сигеити Нэгиси — предприниматель, придумавший один из первых прототипов караоке. Смерть наступила еще 26 января, но известно о ней стало лишь теперь.</h2>
-        <a href="https://rg.ru/2024/03/19/direktor-valeriia-leonteva-rasskazal-chem-zajmetsia-pevec-posle-uhoda-so-sceny.html" class="news-button">Читать далее</a>
+        <a href="https://go.zvuk.com/news/v-vozraste-100-let-skonchalsya-izobretatel-karaoke-sigeiti-negisi-16-03-2024.htm" class="news-button">Читать далее</a>
     </div>
 
     <div class="news-container">
         <img src="https://www.songslyrics.ru/wp-content/uploads/2021/07/OG-Buda-4.jpg" alt="Новость 1">
         <div class="news-date">1 октября 2023</div>
         <h2>На рэпера OG Buda составили протокол о пропаганде наркотиков. В мае на OG Buda пожаловалась "Лига безопасного интернета", которую возглавляет дочь члена Совета Федерации Елены Мизулиной – Екатерина.</h2>
-        <a href="https://rg.ru/2024/03/19/direktor-valeriia-leonteva-rasskazal-chem-zajmetsia-pevec-posle-uhoda-so-sceny.html" class="news-button">Читать далее</a>
+        <a href="https://www.kommersant.ru/doc/5099846?ysclid=ltzhoedps545069897" class="news-button">Читать далее</a>
     </div>
 
     <footer>
